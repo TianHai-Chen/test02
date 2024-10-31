@@ -1,3 +1,3 @@
 <?php
-    echo 'Hello world!'; //testwaf=======================waf
+    echo 'Hello world!'; //没用的
 ?>
