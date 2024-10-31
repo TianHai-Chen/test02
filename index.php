@@ -1,3 +1,3 @@
 <?php
-    echo 'Hello world!'; //aabcdacnnnvabbasf
+    echo 'Hello world!'; 
 ?>
