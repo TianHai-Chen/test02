@@ -4,7 +4,7 @@
         {
             "label": "自动上传到服务器",
             "type": "shell",
-            "command": "git add .; git commit -m '自动上传'; git push origin main; ssh root@23.249.28.216 'cd /www/wwwroot/project/test02; git pull'",
+            "command": "git add .; git commit -m '自动上传'; git push origin main; ssh root@23.249.28.216 'cd /www/wwwroot/default/test02; git pull'",
             "group": {
                 "kind": "build",
                 "isDefault": true

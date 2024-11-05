@@ -1,3 +1,3 @@
 <?php
-echo 'Hello world!'; //testaavwaf
+echo 'Hello world!'; //waf
 ?>
